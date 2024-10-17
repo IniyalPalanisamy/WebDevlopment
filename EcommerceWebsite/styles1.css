@@ -1,0 +1,33 @@
+/* Custom styles */
+
+.hero {
+    background: #f8f9fa;
+    padding: 3rem 0;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.card {
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+form {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form .form-group {
+    margin-bottom: 1.5rem;
+}
+
+form textarea {
+    resize: none;
+}

@@ -1,0 +1,11 @@
+/* Custom styles */
+
+body {
+    padding-top: 4.5rem; /* Adjust based on your navbar height */
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

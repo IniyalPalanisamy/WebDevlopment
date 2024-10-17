@@ -1,0 +1,27 @@
+.iniya{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:wheat;
+    font-size: larger;
+}
+.content{
+    text-indent: 50px;
+    font-size: large;
+    text-align: justify;
+}
+.container1{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* width: 200px; */
+    margin-right: 20px;
+    /* width: 5px;
+    height: 10px; */
+}
+.box{
+    width: 200px;
+    height: 200px;
+}
+.buttombox{
+border: 100px solid rgb(9, 82, 218);
+
+}
